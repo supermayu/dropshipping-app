@@ -1,5 +1,11 @@
 # dropshipping-app
 
+## 起動
+```
+# ルートディレクトリから
+npm run dev
+```
+
 ## 動作確認
 
 - バックエンドAPI: http://localhost:3001
